@@ -1,1 +1,5 @@
-Esse arquivo será usado para treinar o Github
+Esse arquivo será usado  treinar o Github
+
+//Corrigido erros de portugues
+
+Esse linha é adicicao teste 
